@@ -1,0 +1,1 @@
+# figma-plugin-typescript-starter
