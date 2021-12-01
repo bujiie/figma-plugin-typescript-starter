@@ -1,0 +1,7 @@
+{
+  "name": "Figma Plugin Typescript Starter",
+  "id": "<plugin ID>",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": ["figma"]
+}
